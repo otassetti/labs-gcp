@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+#Account GCP :-)
+account.json
